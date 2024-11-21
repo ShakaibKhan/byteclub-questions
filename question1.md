@@ -28,3 +28,35 @@ You can return the answer in any order.
   "nums": [2, 7, 11, 15],
   "target": 18
 }
+```
+*Output:*
+```json
+[1,2]
+```
+
+### Test Case 2
+*Input:*
+```json
+{
+  "nums": [3, 2, 4],
+  "target": 6
+}
+```
+*Output:*
+```json
+[1,2]
+```
+
+### Test Case 3
+*Input:*
+```json
+{
+  "nums": [3, 3],
+  "target": 6
+}
+```
+*Output:*
+```json
+[0, 1]
+```
+
