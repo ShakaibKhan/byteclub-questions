@@ -2,6 +2,7 @@
 id: 2
 title: "Palindrome Number"
 description: Given and integer y, return true if y is a palindrome.
+tags: ["two pointers", "string"]
 ---
 
 # Two Sum
