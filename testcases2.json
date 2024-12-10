@@ -1,24 +1,32 @@
 {
     "1": {
-      "y": 10,
+      "input": {
+        "y": 10
+      },
       "output": [
         false
       ]
     },
     "2": {
-      "y": 101,
+      "input": {
+        "y": 101
+      },
       "output": [
         true
       ]
     },
     "3": {
-      "y": -121,
+      "input": {
+        "y": -121
+      },
       "output": [
         false
       ]
     },
     "4": {
-      "y": 324423,
+      "input": {
+        "y": 324423
+      },
       "output": [
         true
       ]
