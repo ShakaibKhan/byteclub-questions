@@ -1,7 +1,8 @@
 ---
 id: 2
 title: "Palindrome Number"
-tags: ["two pointers", "string"]
+tags: [["two pointers", "TOPIC"], ["string", "TOPIC"]]
+difficulty: "EASY"
 description: Given and integer y, return true if y is a palindrome.
 ---
 
