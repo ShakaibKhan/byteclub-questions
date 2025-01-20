@@ -10,7 +10,8 @@ description: Given and integer y, return true if y is a palindrome.
 
 ## Description
 
-Given and integer y, return true if y is a palindrome.
+Given an integer <code>y</code>, return true if y is a palindrome.
+
 ## Test Cases
 
 ### Test Case 1
