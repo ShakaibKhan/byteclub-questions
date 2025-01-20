@@ -10,7 +10,7 @@ description: Given two sorted arrays return both arrays merged.
 
 ## Description
 
-Given two sorted arrays <code>arr1</code> and <code>arr2</code> return both arrays merged.
+Given two sorted arrays `arr1` and `arr2` return both arrays merged.
 
 ## Test Cases
 

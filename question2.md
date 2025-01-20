@@ -10,7 +10,7 @@ description: Given and integer y, return true if y is a palindrome.
 
 ## Description
 
-Given an integer <code>y</code>, return true if y is a palindrome.
+Given an integer `y`, return true if y is a palindrome.
 
 ## Test Cases
 

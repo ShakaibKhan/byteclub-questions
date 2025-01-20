@@ -10,7 +10,7 @@ description: The Hamming distance is the number of bits that differ in correspon
 
 ## Description
 
-The Hamming distance is the number of bits that differ in corresponding bits between two integers. Given two integers <code>x</code> and <code>y</code> return their Hamming distance.
+The Hamming distance is the number of bits that differ in corresponding bits between two integers. Given two integers `x` and `y` return their Hamming distance.
 
 ## Test Cases
 
