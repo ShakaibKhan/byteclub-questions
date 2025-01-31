@@ -39,6 +39,7 @@ The Hamming distance is the number of bits that differ in corresponding bits bet
 ```json
 1
 ```
+
 ### Test Case 3
 *Input:*
 ```json

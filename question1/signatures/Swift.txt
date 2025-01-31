@@ -1,0 +1,3 @@
+    func palindromeNumber(_ y: Int) -> [Int] {
+        
+    }

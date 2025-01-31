@@ -1,0 +1,3 @@
+    def hammingDistance(x: Int, y: Int): Int = {
+        
+    }

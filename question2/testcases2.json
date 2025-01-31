@@ -1,34 +1,34 @@
 {
+    "inputType": {
+      "y": "int"
+    },
+    "outputType": "boolean",
+    "numberOfTestcases": 4,
     "1": {
       "input": {
         "y": 10
       },
-      "output": [
-        false
-      ]
+      "output": false
+      
     },
     "2": {
       "input": {
         "y": 101
       },
-      "output": [
-        true
-      ]
+      "output": true
+      
     },
     "3": {
       "input": {
         "y": -121
       },
-      "output": [
-        false
-      ]
+      "output": false
+      
     },
     "4": {
       "input": {
         "y": 324423
       },
-      "output": [
-        true
-      ]
+      "output": true
     }
-  }
+}

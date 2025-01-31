@@ -1,0 +1,42 @@
+{
+    "C++": 
+    {
+        "beginning": "class Solution {",
+        "end": "};"
+    },
+    "Java":
+    {
+        "beginning": "class Solution {",
+        "end": "};"
+    },
+    "Python": {
+        "beginning": "class Solution(object):",
+        "end": ""
+    },
+    "Python3": {
+        "beginning": "class Solution:",
+        "end": ""
+    },
+    "C#": 
+    {
+        "beginning": "public class Solution {",
+        "end": "}"
+    },
+    "PHP": {
+        "beginning": "class Solution {",
+        "end": "}"
+    },
+    "Swift": {
+        "beginning": "class Solution {",
+        "end": "}"
+    },
+    "Kotlin": {
+        "beginning": "class Solution {",
+        "end": "}"
+    },
+    "Scala": {
+        "beginning": "class Solution {",
+        "end": "}"
+    }
+
+}

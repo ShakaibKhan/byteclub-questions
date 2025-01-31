@@ -39,6 +39,7 @@ Given two sorted arrays `arr1` and `arr2` return both arrays merged.
 ```json
 [1, 3, 10, 15, 16, 81, 91]
 ```
+
 ### Test Case 3
 *Input:*
 ```json

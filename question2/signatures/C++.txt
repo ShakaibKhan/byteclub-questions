@@ -1,0 +1,4 @@
+public:
+    bool palindromeNumber(int y) {
+
+    }

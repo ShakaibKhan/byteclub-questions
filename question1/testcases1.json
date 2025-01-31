@@ -1,4 +1,10 @@
 {
+    "inputType": {
+      "nums": "int array",
+      "target": "int"
+    },
+    "outputType": "int array",
+    "numberOfTestcases": 3,
     "1": {
       "input": {
         "nums": [

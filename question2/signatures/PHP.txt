@@ -1,0 +1,7 @@
+/*
+ * @param Int $y
+ * @return Boolean
+ */
+function palindromeNumber($y) {
+    
+}

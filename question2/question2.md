@@ -47,14 +47,3 @@ Given an integer `y`, return true if y is a palindrome.
 ```json
 [false]
 ```
-### Test Case 4
-*Input:*
-```json
-{
-  "y": 324423
-}
-```
-*Output:*
-```json
-[true]
-```
