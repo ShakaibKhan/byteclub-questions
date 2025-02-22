@@ -1,40 +1,40 @@
 {
-    "C++": 
+    "2": 
     {
         "beginning": "class Solution {",
         "end": "};"
     },
-    "Java":
-    {
-        "beginning": "class Solution {",
-        "end": "};"
-    },
-    "Python": {
-        "beginning": "class Solution(object):",
-        "end": ""
-    },
-    "Python3": {
-        "beginning": "class Solution:",
-        "end": ""
-    },
-    "C#": 
+    "3": 
     {
         "beginning": "public class Solution {",
         "end": "}"
     },
-    "PHP": {
+    "5":
+    {
+        "beginning": "class Solution {",
+        "end": "};"
+    },
+    "7": {
+        "beginning": "class Solution(object):",
+        "end": ""
+    },
+    "8": {
+        "beginning": "class Solution:",
+        "end": ""
+    },
+    "9": {
         "beginning": "class Solution {",
         "end": "}"
     },
-    "Swift": {
+    "10": {
         "beginning": "class Solution {",
         "end": "}"
     },
-    "Kotlin": {
+    "11": {
         "beginning": "class Solution {",
         "end": "}"
     },
-    "Scala": {
+    "12": {
         "beginning": "class Solution {",
         "end": "}"
     }

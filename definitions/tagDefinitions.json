@@ -1,0 +1,22 @@
+{
+    "1" :  {
+        "name" : "array",
+        "type" : "TOPIC"
+    },
+    "2" : {
+        "name" : "hash table",
+        "type" : "TOPIC"
+    },
+    "3" : {
+        "name" : "two pointers",
+        "type" : "TOPIC"
+    },
+    "4" : {
+        "name" : "string",
+        "type" :"TOPIC"
+    },
+    "5" : {
+        "name" : "bit manipulation",
+        "type" : "TOPIC"
+    }
+}

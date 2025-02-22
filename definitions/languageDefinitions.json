@@ -1,0 +1,54 @@
+{
+    "1" : {
+        "name": "C",
+        "judge0_id": "50"
+    },
+    "2" : {
+        "name": "C++",
+        "judge0_id": "54"
+    },
+    "3" : {
+        "name": "C#",
+        "judge0_id": "51"
+    },
+    "4" : {
+        "name": "Go",
+        "judge0_id": "60"
+    },
+    "5" : {
+        "name": "Java",
+        "judge0_id": "62"
+    },    
+    "6" : {
+        "name": "JavaScript",
+        "judge0_id": "63"
+    },
+    "7" : {
+        "name": "Python",
+        "judge0_id": 70
+    },
+    "8" : {
+        "name" : "Python3",
+        "judge0_id": "71"
+    },
+    "9" : {
+        "name" : "PHP",
+        "judge0_id": "68"
+    },
+    "10" : {
+        "name" : "Swift",
+        "judge0_id": "83"
+    },
+    "11" : { 
+        "name" : "Kotlin",
+        "judge0_id" : "78"
+    }, 
+    "12" : {
+        "name" : "Scala",
+        "judge0_id" : "81"
+    }, 
+    "13" : {
+        "name" : "TypeScript",
+        "judge0_id": "74"
+    }
+}
