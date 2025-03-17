@@ -4,6 +4,12 @@
       "target": "int"
     },
     "outputType": "int array",
+    "functionInvocation": {
+      "8": {
+        "start": "twoSum(",
+        "end": ")"
+      }
+    },
     "numberOfTestcases": 3,
     "1": {
       "input": {

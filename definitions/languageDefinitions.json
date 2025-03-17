@@ -25,7 +25,7 @@
     },
     "7" : {
         "name": "Python",
-        "judge0_id": 70
+        "judge0_id": "70"
     },
     "8" : {
         "name" : "Python3",

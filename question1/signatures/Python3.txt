@@ -1,1 +1,1 @@
-    def palindromeNumber(self, y):
+    def twoSum(self, nums, target):

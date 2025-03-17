@@ -3,6 +3,12 @@
       "y": "int"
     },
     "outputType": "boolean",
+    "functionInvocation": {
+      "8": {
+        "start": "palindromeNumber(",
+        "end": ")"
+      }
+    },
     "numberOfTestcases": 4,
     "1": {
       "input": {

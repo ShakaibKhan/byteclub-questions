@@ -1,0 +1,55 @@
+{
+    "1" : {
+        "import": "#include <stdio.h>",
+        "start": "int main() {",
+        "end": "return 0\n}"
+    },
+    "2" : {
+        "start": "int main() {",
+        "end": "}"
+    },
+    "3" : {
+        "start": "int main() {",
+        "end": "}"
+    },
+    "4" : {
+        "start": "int main() {",
+        "end": "}"
+    },
+    "5" : {
+        "start": "int main() {",
+        "end": "}"
+    },    
+    "6" : {
+        "start": "int main() {",
+        "end": "}"
+    },
+    "7" : {
+        "start": "solution = Solution()",
+        "print": "print"
+    },
+    "8" : {
+        "start": "solution = Solution()",
+        "print": "print"
+    },
+    "9" : {
+        "start": "int main() {",
+        "end": "}"
+    },
+    "10" : {
+        "start": "int main() {",
+        "end": "}"
+    },
+    "11" : { 
+        "start": "int main() {",
+        "end": "}"
+    }, 
+    "12" : {
+        "start": "int main() {",
+        "end": "}"
+    }, 
+    "13" : {
+        "start": "int main() {",
+        "end": "}"
+    }
+}

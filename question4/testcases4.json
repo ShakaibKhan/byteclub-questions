@@ -5,6 +5,12 @@
     },
     "outputType": "int",
     "numberOfTestcases": 4,
+    "functionInvocation": {
+      "8": {
+        "start": "hammingDistance(",
+        "end": ")"
+      }
+    },
     "1": {
       "input": {
         "x": 1,
