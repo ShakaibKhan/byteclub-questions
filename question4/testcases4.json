@@ -4,39 +4,109 @@
       "y": "int"
     },
     "outputType": "int",
-    "numberOfTestcases": 4,
     "functionInvocation": {
       "8": {
         "start": "hammingDistance(",
         "end": ")"
       }
     },
-    "1": {
-      "input": {
-        "x": 1,
-        "y": 4
-      },
-      "output": 2
+"numberOfTestcases": 14,
+  "1": {
+    "input": {
+      "x": 1,
+      "y": 4
     },
-    "2": {
-      "input": {
-        "x": 1,
-        "y": 5
-      },
-      "output": 1
+    "output": 2
+  },
+  "2": {
+    "input": {
+      "x": 1,
+      "y": 5
     },
-    "3": {
-      "input": {
-        "x": 7,
-        "y": 8
-      },
-      "output": 4
+    "output": 1
+  },
+  "3": {
+    "input": {
+      "x": 7,
+      "y": 8
     },
-    "4": {
-      "input": {
-        "x": 16,
-        "y": 1
-      },
-      "output": 2
-    }
+    "output": 4
+  },
+  "4": {
+    "input": {
+      "x": 16,
+      "y": 1
+    },
+    "output": 2
+  },
+  "5": {
+    "input": {
+      "x": 3,
+      "y": 9
+    },
+    "output": 3
+  },
+  "6": {
+    "input": {
+      "x": 10,
+      "y": 15
+    },
+    "output": 3
+  },
+  "7": {
+    "input": {
+      "x": 0,
+      "y": 0
+    },
+    "output": 0
+  },
+  "8": {
+    "input": {
+      "x": 31,
+      "y": 14
+    },
+    "output": 4
+  },
+  "9": {
+    "input": {
+      "x": 255,
+      "y": 0
+    },
+    "output": 8
+  },
+  "10": {
+    "input": {
+      "x": 1023,
+      "y": 512
+    },
+    "output": 9
+  },
+  "11": {
+    "input": {
+      "x": 1024,
+      "y": 2047
+    },
+    "output": 11
+  },
+  "12": {
+    "input": {
+      "x": 2,
+      "y": 3
+    },
+    "output": 1
+  },
+  "13": {
+    "input": {
+      "x": 29,
+      "y": 17
+    },
+    "output": 3
+  },
+  "14": {
+    "input": {
+      "x": 256,
+      "y": 512
+    },
+    "output": 9
+  }
 }

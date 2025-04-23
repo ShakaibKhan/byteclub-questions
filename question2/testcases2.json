@@ -9,32 +9,77 @@
         "end": ")"
       }
     },
-    "numberOfTestcases": 4,
-    "1": {
-      "input": {
-        "y": 10
-      },
-      "output": false
-      
+    "numberOfTestcases": 12,
+"1": {
+        "input": {
+            "y": 10
+        },
+        "output": false
     },
     "2": {
-      "input": {
-        "y": 101
-      },
-      "output": true
-      
+        "input": {
+            "y": 101
+        },
+        "output": true
     },
     "3": {
-      "input": {
-        "y": -121
-      },
-      "output": false
-      
+        "input": {
+            "y": -121
+        },
+        "output": false
     },
     "4": {
-      "input": {
-        "y": 324423
-      },
-      "output": true
+        "input": {
+            "y": 324423
+        },
+        "output": true
+    },
+    "5": {
+        "input": {
+            "y": 0
+        },
+        "output": true
+    },
+    "6": {
+        "input": {
+            "y": 12321
+        },
+        "output": true
+    },
+    "7": {
+        "input": {
+            "y": 12345
+        },
+        "output": false
+    },
+    "8": {
+        "input": {
+            "y": 1001
+        },
+        "output": true
+    },
+    "9": {
+        "input": {
+            "y": 100
+        },
+        "output": false
+    },
+    "10": {
+        "input": {
+            "y": 555
+        },
+        "output": true
+    },
+    "11": {
+        "input": {
+            "y": -101
+        },
+        "output": false
+    },
+    "12": {
+        "input": {
+            "y": 999999999
+        },
+        "output": true
     }
 }
